@@ -1,0 +1,4 @@
+all_output.txt
+summary.csv
+cuda/hotspot/output_baseline.dat
+cuda/hotspot/output_unified.dat
